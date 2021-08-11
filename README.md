@@ -1,1 +1,1 @@
-bathing in ambient soup and learning node
+bathing in ambient soup and learning functional programming
